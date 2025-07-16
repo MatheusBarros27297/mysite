@@ -7,6 +7,7 @@ For more information on this file, see
 https://docs.djangoproject.com/en/5.2/howto/deployment/wsgi/
 """
 # Comentário
+# Comentário
 
 import os
 
